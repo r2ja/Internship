@@ -1,0 +1,31 @@
+.product-div{
+    width: 100%;
+    border-radius: 10px;
+    background-color: white;
+}
+
+.product-heading{
+    color: black;
+    text-align: left;
+    margin-bottom: 0;
+    padding-top: 1rem;
+
+}
+
+.product-inside{
+    margin-left: 2rem;
+}
+
+.product-paragraph{
+    color: black;
+    text-align: left;
+    margin-top: 0;
+}
+
+.product-button{
+    background-color: black;
+    border-radius: 16px;
+    padding: 0.5rem;
+    align-self: flex-start;
+    margin-bottom: 1rem;
+}

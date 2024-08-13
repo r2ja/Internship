@@ -1,0 +1,9 @@
+.root-layout{
+    width: 100%;
+    top: 0;
+}
+
+.link{
+    align-items: center;
+    display: flex;
+}

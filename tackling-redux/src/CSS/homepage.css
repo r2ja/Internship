@@ -1,0 +1,22 @@
+.homepage-title{
+    text-align: left;
+    color:darkslategray;
+}
+
+.homepage-paragraph{
+    text-align: left;
+}
+
+.homepage-btn{
+    font-size: 1rem;
+    border-radius: 16px;
+    padding: 0.5rem 2rem;
+    align-items: start;
+    background-color: darkslategray;
+}
+
+.btn-div{
+    align-items: start;
+    display: flex
+    ;
+}
